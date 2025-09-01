@@ -3,16 +3,7 @@ EGA-TELKOM(2)		Ega-telkom		EGA-TELKOM(2)
 NAME
 	Ega-telkom - Existing
 
-SYNOPSIS
-	Ega-telkom [-h | --help]
-
 DESCRIPTION
 	user 1000 with -rwx------ on /
-
-AUTHOR
-	Ega
-
-COPYRIGHT
-	© Ega 2025, Indie·Indeed™
 
 Ega-telkom 1.0		1/1/1970		EGA-TELKOM(2)
